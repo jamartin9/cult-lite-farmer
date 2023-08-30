@@ -1,8 +1,8 @@
 [submodule "dg_xch_utils"]
 	path = dg_xch_utils
-	url = git@github.com:GalactechsLLC/dg_xch_utils.git
+	url = https://github.com/GalactechsLLC/dg_xch_utils
 [submodule "dg_xch_utils/"]
 	branch = main
 [submodule "mozilla-ca"]
 	path = mozilla-ca
-	url = git@github.com:Chia-Network/mozilla-ca.git
+	url = https://github.com/Chia-Network/mozilla-ca
